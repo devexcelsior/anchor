@@ -1,0 +1,12 @@
+{
+  "name": "@devexcelsior/token-broker",
+  "version": "0.0.1",
+  "description": "Token management and distribution for AI agent authentication.",
+  "license": "UNLICENSED",
+  "author": "Curt Puckett <curtnpuckett>",
+  "main": "src/index.ts",
+  "files": ["src", "LICENSE"],
+  "publishConfig": {
+    "access": "public"
+  }
+}

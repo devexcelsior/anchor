@@ -1,0 +1,12 @@
+{
+  "name": "@devexcelsior/healing-governor-ui-overlay",
+  "version": "0.0.1",
+  "description": "UI overlay for governance warnings and fallback suppression.",
+  "license": "UNLICENSED",
+  "author": "Curt Puckett <curtnpuckett>",
+  "main": "src/index.ts",
+  "files": ["src", "LICENSE"],
+  "publishConfig": {
+    "access": "public"
+  }
+}

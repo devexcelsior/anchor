@@ -1,0 +1,10 @@
+{
+  "name": "@devexcelsior/anchor",
+  "version": "0.0.1",
+  "private": true,
+  "description": "AI Trust Verification Layer — proprietary architecture. Prior art established.",
+  "license": "UNLICENSED",
+  "workspaces": [
+    "packages/*"
+  ]
+}

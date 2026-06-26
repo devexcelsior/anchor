@@ -1,0 +1,12 @@
+{
+  "name": "@devexcelsior/healing-engine-core",
+  "version": "0.0.1",
+  "description": "Foundation engine for healing/fallback/suppression logic in AI agent systems.",
+  "license": "UNLICENSED",
+  "author": "Curt Puckett <curtnpuckett>",
+  "main": "src/index.ts",
+  "files": ["src", "LICENSE"],
+  "publishConfig": {
+    "access": "public"
+  }
+}

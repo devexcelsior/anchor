@@ -1,0 +1,12 @@
+{
+  "name": "@devexcelsior/inference-mirror",
+  "version": "0.0.1",
+  "description": "Mirrors AI model outputs for verification and audit.",
+  "license": "UNLICENSED",
+  "author": "Curt Puckett <curtnpuckett>",
+  "main": "src/index.ts",
+  "files": ["src", "LICENSE"],
+  "publishConfig": {
+    "access": "public"
+  }
+}

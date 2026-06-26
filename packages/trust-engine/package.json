@@ -1,0 +1,12 @@
+{
+  "name": "@devexcelsior/trust-engine",
+  "version": "0.0.1",
+  "description": "Core AI trust verification engine. Validates model integrity, agent behavior, and data lineage.",
+  "license": "UNLICENSED",
+  "author": "Curt Puckett <curtnpuckett>",
+  "main": "src/index.ts",
+  "files": ["src", "LICENSE"],
+  "publishConfig": {
+    "access": "public"
+  }
+}

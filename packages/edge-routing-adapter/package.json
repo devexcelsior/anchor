@@ -1,0 +1,12 @@
+{
+  "name": "@devexcelsior/edge-routing-adapter",
+  "version": "0.0.1",
+  "description": "Edge routing adapter for distributed AI agent deployment.",
+  "license": "UNLICENSED",
+  "author": "Curt Puckett <curtnpuckett>",
+  "main": "src/index.ts",
+  "files": ["src", "LICENSE"],
+  "publishConfig": {
+    "access": "public"
+  }
+}

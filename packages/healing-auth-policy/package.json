@@ -1,0 +1,12 @@
+{
+  "name": "@devexcelsior/healing-auth-policy",
+  "version": "0.0.1",
+  "description": "Fine-grained authorization policies for AI agent actions.",
+  "license": "UNLICENSED",
+  "author": "Curt Puckett <curtnpuckett>",
+  "main": "src/index.ts",
+  "files": ["src", "LICENSE"],
+  "publishConfig": {
+    "access": "public"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "@devexcelsior/session-codec",
+  "version": "0.0.1",
+  "description": "Session encoding and decoding for AI agent conversations.",
+  "license": "UNLICENSED",
+  "author": "Curt Puckett <curtnpuckett>",
+  "main": "src/index.ts",
+  "files": ["src", "LICENSE"],
+  "publishConfig": {
+    "access": "public"
+  }
+}

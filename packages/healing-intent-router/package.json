@@ -1,0 +1,12 @@
+{
+  "name": "@devexcelsior/healing-intent-router",
+  "version": "0.0.1",
+  "description": "Routes AI agent intents to appropriate handlers with trust verification.",
+  "license": "UNLICENSED",
+  "author": "Curt Puckett <curtnpuckett>",
+  "main": "src/index.ts",
+  "files": ["src", "LICENSE"],
+  "publishConfig": {
+    "access": "public"
+  }
+}

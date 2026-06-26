@@ -1,0 +1,12 @@
+{
+  "name": "@devexcelsior/healing-governor",
+  "version": "0.0.1",
+  "description": "Governance framework for AI agent actions. Policy enforcement and compliance.",
+  "license": "UNLICENSED",
+  "author": "Curt Puckett <curtnpuckett>",
+  "main": "src/index.ts",
+  "files": ["src", "LICENSE"],
+  "publishConfig": {
+    "access": "public"
+  }
+}

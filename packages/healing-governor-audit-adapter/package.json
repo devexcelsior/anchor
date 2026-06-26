@@ -1,0 +1,12 @@
+{
+  "name": "@devexcelsior/healing-governor-audit-adapter",
+  "version": "0.0.1",
+  "description": "Audit logging adapter for governance decisions.",
+  "license": "UNLICENSED",
+  "author": "Curt Puckett <curtnpuckett>",
+  "main": "src/index.ts",
+  "files": ["src", "LICENSE"],
+  "publishConfig": {
+    "access": "public"
+  }
+}

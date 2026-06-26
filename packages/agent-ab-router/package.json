@@ -1,0 +1,12 @@
+{
+  "name": "@devexcelsior/agent-ab-router",
+  "version": "0.0.1",
+  "description": "A/B routing for AI agents.",
+  "license": "UNLICENSED",
+  "author": "Curt Puckett <curtnpuckett>",
+  "main": "src/index.ts",
+  "files": ["src", "LICENSE"],
+  "publishConfig": {
+    "access": "public"
+  }
+}

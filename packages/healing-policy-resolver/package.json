@@ -1,0 +1,12 @@
+{
+  "name": "@devexcelsior/healing-policy-resolver",
+  "version": "0.0.1",
+  "description": "Policy resolution engine. Resolves conflicts between governance rules.",
+  "license": "UNLICENSED",
+  "author": "Curt Puckett <curtnpuckett>",
+  "main": "src/index.ts",
+  "files": ["src", "LICENSE"],
+  "publishConfig": {
+    "access": "public"
+  }
+}

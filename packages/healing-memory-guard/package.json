@@ -1,0 +1,12 @@
+{
+  "name": "@devexcelsior/healing-memory-guard",
+  "version": "0.0.1",
+  "description": "Memory access guard for AI agent context.",
+  "license": "UNLICENSED",
+  "author": "Curt Puckett <curtnpuckett>",
+  "main": "src/index.ts",
+  "files": ["src", "LICENSE"],
+  "publishConfig": {
+    "access": "public"
+  }
+}

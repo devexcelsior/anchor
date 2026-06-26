@@ -1,0 +1,12 @@
+{
+  "name": "@devexcelsior/healing-ui-devtools",
+  "version": "0.0.1",
+  "description": "Developer tools for inspecting trust verification and healing.",
+  "license": "UNLICENSED",
+  "author": "Curt Puckett <curtnpuckett>",
+  "main": "src/index.ts",
+  "files": ["src", "LICENSE"],
+  "publishConfig": {
+    "access": "public"
+  }
+}

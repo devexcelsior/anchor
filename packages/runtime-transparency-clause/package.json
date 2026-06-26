@@ -1,0 +1,12 @@
+{
+  "name": "@devexcelsior/runtime-transparency-clause",
+  "version": "0.0.1",
+  "description": "Runtime transparency and compliance documentation generation.",
+  "license": "UNLICENSED",
+  "author": "Curt Puckett <curtnpuckett>",
+  "main": "src/index.ts",
+  "files": ["src", "LICENSE"],
+  "publishConfig": {
+    "access": "public"
+  }
+}
